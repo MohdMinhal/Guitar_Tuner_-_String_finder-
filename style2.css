@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url("3d-render-acoustic-guitar-black-.avif");
+    background-size: 80%;
+    background-position-x: 70%;
+    background-repeat: no-repeat;
+}
+
+#text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+#text2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    font-size: 25px;
+    color: white;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}

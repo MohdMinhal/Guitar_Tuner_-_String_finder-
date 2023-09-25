@@ -15,8 +15,8 @@ The pitch vary depending on strings, (ignoring other factors).
 
 ### String frequencies of standard tuning
 
-String | Frequency  |  Scientific 
--------| -----------| Pitch Notation
+String | Frequency  |  Scientific Pitch Notation
+-------| -----------| ----------
 1 (E)	 | 329.63 Hz	| E4
 2 (B)	 | 246.94 Hz	| B3
 3 (G)	 | 196.00 Hz	| G3

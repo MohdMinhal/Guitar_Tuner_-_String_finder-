@@ -8,7 +8,7 @@ Step 2 - Start a live server
 
 It might look complex until you figure it out.  
 It uses pitch, as it may not seems so but there is Physics in the Music, specially when we talk about string instruments.  
-The tuning, tension in the strings and length, etc. Lets not go beyound whats necessary.  
+The tuning, the tension in the strings and the length, etc. Lets not go beyound whats necessary.  
 The strings when vibrate they produce sound, and every string produce different sound.  
 Here we will not talk about amplitude or wave form, But a simple distinguished factor Pitch.  
 The pitch vary depending on strings, (ignoring other factors).  

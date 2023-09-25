@@ -24,7 +24,7 @@ String | Frequency  |  Scientific Pitch Notation
 5 (A)	 | 110.00 Hz	| A2
 6 (E)	 | 82.41 Hz   | E2
 
-As we can see above, I used the standard one for this project.(I'm thing of adding more option in the future)  
+As we can see above, I used the standard one for this project.(I'm thing of adding more options in the future)  
 I used the Pitch Detection Model here, (The link is in js file).  
 Now the model compares the pitches with the Standard notation, draw out the result.  
 

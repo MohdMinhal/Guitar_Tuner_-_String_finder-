@@ -28,7 +28,7 @@ As we can see above, I used the standard one for this project.(I'm thing of addi
 I used the Pitch Detection Model here, (The link is in js file).  
 Now the model compares the pitches with the Standard notation, draw out the result.  
 
-# I was about to make it usable with real life fuctionality but got stuck with exams and all 
+# I was about to make it usable with real life fuctionality but got stuck with exams and all keeping the database link here for future use, if any.
 
 Guitar Only
 ===========
